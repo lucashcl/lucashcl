@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Sou estudante do oitavo de Ciência da Computação na Faculdade de Petrolina. 
+Sou estudante do oitavo período de Ciência da Computação na Faculdade de Petrolina. 
 Atualmente estou estudando sobre AWS, Event-driven architecture, comunicação assíncrona por messageria e bancos de dados para sistemas distribuídos.
 
 ## 🎓 Formação
